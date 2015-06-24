@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isnan(${0: ,},${1: })]]></content>
+	<tabTrigger>isnan</tabTrigger>
+	<scope>source.shader</scope>
+	<description>判断标量或者向量中的每个数据是否是非数据,如果是返回true</description>
+</snippet>

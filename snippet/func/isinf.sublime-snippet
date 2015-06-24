@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[isinf(${0: })]]></content>
+	<tabTrigger>isinf</tabTrigger>
+	<scope>source.shader</scope>
+	<description>判断标量或者向量中的每个数据是否是无限，如果是返回true</description>
+</snippet>

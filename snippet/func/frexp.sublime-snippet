@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[frexp(${0: })]]></content>
+	<tabTrigger>frexp</tabTrigger>
+	<scope>source.shader</scope>
+	<description>将浮点数x分解为尾数和指数</description>
+</snippet>

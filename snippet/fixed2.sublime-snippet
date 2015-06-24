@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[${1:fixed2}
+	<content><![CDATA[fixed2 ${1:}
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>fixed2</tabTrigger>

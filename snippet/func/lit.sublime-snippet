@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[lit(${0: })]]></content>
+	<tabTrigger>lit</tabTrigger>
+	<scope>source.shader</scope>
+	<description>计算环境光、散射光、镜面光的贡献，返回的4元向量</description>
+</snippet>

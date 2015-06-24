@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[${1:float4}
+	<content><![CDATA[float4 ${1:}
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>float4</tabTrigger>

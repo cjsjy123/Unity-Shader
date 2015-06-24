@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[${1:half3}
+	<content><![CDATA[half3 ${1:}
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>half3</tabTrigger>
