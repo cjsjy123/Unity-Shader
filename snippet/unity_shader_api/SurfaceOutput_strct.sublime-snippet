@@ -1,0 +1,15 @@
+<snippet>
+		<content><![CDATA[struct SurfaceOutput 
+{
+	fixed3 Albedo;
+	fixed3 Normal;
+	fixed3 Emission;
+	half Specular;
+	fixed Gloss;
+	fixed Alpha;
+	${0:}
+}]]></content>
+	<tabTrigger>Surface</tabTrigger>
+	<scope>source.shader</scope>
+	<description>     </description>
+</snippet>
