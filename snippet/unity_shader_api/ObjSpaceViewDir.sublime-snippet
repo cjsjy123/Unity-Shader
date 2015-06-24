@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[ObjSpaceViewDir(${0:})]]></content>
+	<tabTrigger>ObjSpaceViewDir</tabTrigger>
+	<scope>source.shader</scope>
+	<description>     </description>
+</snippet>

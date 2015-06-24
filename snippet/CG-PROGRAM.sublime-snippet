@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${1:CGPROGRAM} ]]></content>
+    <tabTrigger>cg</tabTrigger>
+    <scope>source.shader</scope>
+    <description>cg-CGPROGRAM</description>
+</snippet>

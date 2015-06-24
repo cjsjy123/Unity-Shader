@@ -1,0 +1,46 @@
+# [PackageDev] target_format: plist, ext: tmLanguage
+---
+name: Unity Shader
+scopeName: source.shader
+fileTypes: [shader]
+uuid: e3872ec7-60d7-4cc2-bf8f-57da56c339f2
+
+patterns:
+- comment: Keywords
+  name: keyword.source.shader
+  match: (Sub)?Shader|Category|Properties|CGINCLUDE|FallBack|Tags|LOD|Cull|Blend|AlphaTest|ColorMask|Lighting|ZWrite|BindChannels|Pass|return
+- comment: Comment
+  name: comment.source.shader
+  match: //.*$
+- comment: Types
+  name: storage.type.source.shader
+  match: (?<=[, \s\(\)])(((float|half|fixed)[2-4]?)|SurfaceOutput|inout|bool|sampler(CUBE|[23]D)|void|2D|Color|struct|[Ff]loat)(?=[,\s\(\)])
+- comment: String
+  name: string.quoted.double.source.shader
+  match: \"[^\"]*\"
+- comment: compiler directive
+  name: meta.preprocessor.source.shader
+  match: (#)(pragma|include|ifdef|endif|if|define).*
+  captures:
+    '1': {name: meta.preprocessor.source.shader}
+    '2': {name: keyword.control.preprocessor.source.shader}
+    # '3': {name: meta.preprocessor.source.shader}
+- comment: functions
+  name: support.function.any-method.shader
+  match: (length|cross|pow|tex2D|UnpackNormal|saturate|dot|normalize|clip|frac|mul|TRANSFORM_TEX|SetTexture|combine|UnityPixelSnap)
+- comment: number literals
+  name: constant.numeric.source.shader
+  match: \b([-+]?([0-9]+(\.[0-9]+)?|\.[0-9]+)[\s]*,[\s]*)*([-+]?([0-9]+(\.[0-9]+)?|\.[0-9]+)[fF]?)+\b
+- comment: CGPROGRAM -- ENDCG
+  name: cgprogram.source.shader
+  begin: (CGPROGRAM)
+  end: (ENDCG)
+  beginCaptures:
+    '1': {name: keyword.source.shader}
+  endCaptures:
+    '1': {name: keyword.source.shader}
+  patterns:
+  - include: source.c
+  - include: $self
+  - match: .
+...

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[fragmentoption  ${0:ARB_precision_hint_fastest} ]]></content>
+	<tabTrigger>fragmentoption </tabTrigger>
+	<scope>source.shader</scope>
+	<description>     </description>
+</snippet>

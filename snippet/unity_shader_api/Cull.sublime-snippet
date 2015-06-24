@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Cull ${0:} on ]]></content>
+	<tabTrigger>Cull</tabTrigger>
+	<scope>source.shader</scope>
+	<description>     </description>
+</snippet>

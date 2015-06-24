@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FallBack  "${0:}"]]></content>
+	<tabTrigger>FallBack</tabTrigger>
+	<scope>source.shader</scope>
+	<description>     </description>
+</snippet>

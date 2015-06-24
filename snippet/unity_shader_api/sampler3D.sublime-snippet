@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[sampler3D ${0:}]]></content>
+	<tabTrigger>sampler3D</tabTrigger>
+	<scope>source.shader</scope>
+	<description>     </description>
+</snippet>

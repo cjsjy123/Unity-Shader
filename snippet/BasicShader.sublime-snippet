@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+Shader "Temp/Basic" {
+	Properties {
+
+	}
+	SubShader {
+	$0
+	}
+
+	Fallback \"Diffuse\"
+}
+]]></content>
+	<tabTrigger>Shader</tabTrigger>
+	<scope>source.shader</scope>
+</snippet>

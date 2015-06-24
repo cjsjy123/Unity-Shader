@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[void fun_name(${0:})
+{
+
+}]]></content>
+	<tabTrigger>void</tabTrigger>
+	<scope>source.shader</scope>
+	<description>     </description>
+</snippet>

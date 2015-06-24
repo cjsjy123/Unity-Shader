@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[_${1/ //g}Texure ("${1:Main} Texure", 2D) = "${2:white}" {}]]></content>
+	<tabTrigger>texture</tabTrigger>
+	<scope>source.shader</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[fragment ${0:Frag} ]]></content>
+	<tabTrigger>fragment</tabTrigger>
+	<scope>source.shader</scope>
+	<description>     </description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DecodeLightmap(${0:})]]></content>
+	<tabTrigger>DecodeLightmap</tabTrigger>
+	<scope>source.shader</scope>
+	<description>     </description>
+</snippet>

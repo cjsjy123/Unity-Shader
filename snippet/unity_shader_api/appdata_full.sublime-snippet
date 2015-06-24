@@ -1,0 +1,15 @@
+<snippet>
+		<content><![CDATA[struct appdata_full
+{
+	vertex,
+	tangent,
+	normal,
+	texcoord,
+	texcoord1,
+	color,
+	${0:}
+}]]></content>
+	<tabTrigger>appdata_full</tabTrigger>
+	<scope>source.shader</scope>
+	<description>     </description>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[_${1/ //g} ("${1:Range}", Range(${2:0.0}, ${3:10.0})) = (${4:5.0})]]></content>
+	<tabTrigger>Range</tabTrigger>
+	<scope>source.shader</scope>
+</snippet>

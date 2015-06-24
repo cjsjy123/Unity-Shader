@@ -1,0 +1,9 @@
+{
+        "scope": "source.shader",
+        "completions":
+        [
+                { "trigger": "#pragma", "contents": "#pragma surface surf Lambert"},
+                { "trigger": "Tags", "contents": "Tags { $0 }"},
+                { "trigger": "CGPROGRAM", "contents": "CGPROGRAM\n$0\nENDCG"}
+        ]
+}
