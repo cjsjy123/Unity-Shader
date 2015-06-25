@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UnitySpotAttenuate(${0: })]]></content>
-	<tabTrigger>UnitySpotAttenuate</tabTrigger>
-	<scope>source.shader</scope>
-	<description></description>
-</snippet>

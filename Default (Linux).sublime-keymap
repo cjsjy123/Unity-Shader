@@ -1,0 +1,3 @@
+[
+    { "keys": ["ctrl+shift+1"], "command": "shader_goto_definition" }
+]

@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[LightingLambert_DirLightmap(${0: })]]></content>
-	<tabTrigger>LightingLambert_DirLightmap</tabTrigger>
-	<scope>source.shader</scope>
-	<description></description>
-</snippet>

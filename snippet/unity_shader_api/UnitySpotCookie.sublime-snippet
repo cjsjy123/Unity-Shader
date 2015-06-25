@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[UnitySpotCookie(${0: })]]></content>
-	<tabTrigger>UnitySpotCookie</tabTrigger>
-	<scope>source.shader</scope>
-	<description></description>
-</snippet>
