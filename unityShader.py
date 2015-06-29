@@ -27,7 +27,8 @@ def init():
     temp1 =json.loads(defaultdefine.inlist)
     temp2 =json.loads(defaultdefine.oList)
     temp3 =json.loads(defaultdefine.vlist)
-    DEFINITION_LIST=temp1 +temp2+temp3
+    temp4 =json.loads(defaultdefine.othersList)
+    DEFINITION_LIST=temp1 +temp2+temp3 +temp4
 
 def checkUnityShaderRoot():
     settings = helper.loadSettings("Unity3D-Shader")
