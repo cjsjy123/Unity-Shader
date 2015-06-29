@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[worldNormal ${1:}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>worldNormal</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.shader</scope> 
+	<description>Input:世界空间中的法线向量(normal vector)。如果表面着色器(surface shader)不写入法线(o.Normal)参数，将包含这个参数。</description>
+</snippet>

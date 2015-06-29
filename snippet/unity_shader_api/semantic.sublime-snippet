@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[semantic  ${1:}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>semantic</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.shader</scope> 
+	<description>Input:每个顶点(per-vertex)颜色的插值。</description>
+</snippet>

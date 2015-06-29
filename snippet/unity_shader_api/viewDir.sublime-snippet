@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[viewDir ${1:}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>viewDir</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.shader</scope> 
+	<description>Input:视图方向( view direction)值。为了计算视差效果(Parallax effects)，边缘光照(rim lighting)等，需要包含视图方向( view direction)值。</description>
+</snippet>

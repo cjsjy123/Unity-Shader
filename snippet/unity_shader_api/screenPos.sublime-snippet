@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[screenPos  ${1:}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>screenPos</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.shader</scope> 
+	<description>Input:屏幕空间中的位置。 为了反射效果，需要包含屏幕空间中的位置信息。比如在Dark Unity中所使用的 WetStreet着色器。</description>
+</snippet>

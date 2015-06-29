@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[worldRefl; INTERNAL_DATA ${1:}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>worldRefl; INTERNAL_DATA</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.shader</scope> 
+	<description>Input:世界空间中的反射向量。如果表面着色器(surface shader)不写入法线(o.Normal)参数，将包含这个参数。为了获得基于每个顶点法线贴图( per-pixel normal map)的反射向量(reflection vector)需要使用世界反射向量(WorldReflectionVector (IN, o.Normal))。请参考这个例子： Reflect-Bumped着色器</description>
+</snippet>
