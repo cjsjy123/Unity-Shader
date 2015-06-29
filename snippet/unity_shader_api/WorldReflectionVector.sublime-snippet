@@ -1,9 +1,9 @@
 <snippet>
-	<content><![CDATA[semantic  ${1:}
+	<content><![CDATA[WorldReflectionVector ( ${1:})
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>semantic</tabTrigger>
+	<tabTrigger>WorldReflectionVector</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>source.shader</scope> 
-	<description>Input: (float4) 每个顶点(per-vertex)颜色的插值。</description>
+	<description>float3 worldRefl; INTERNAL_DATA 用此方法</description>
 </snippet>
