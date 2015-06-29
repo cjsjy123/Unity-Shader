@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[worldRefl ${1:}
+	<content><![CDATA[float3 worldRefl ${1:}
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>worldRefl</tabTrigger>

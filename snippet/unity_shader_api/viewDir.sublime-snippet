@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[viewDir ${1:}
+	<content><![CDATA[float3 viewDir ${1:}
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>viewDir</tabTrigger>
