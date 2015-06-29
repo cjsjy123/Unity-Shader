@@ -2,5 +2,5 @@
 	<content><![CDATA[INTERNAL_DATA ${0:}]]></content>
 	<tabTrigger>INTERNAL_DATA</tabTrigger>
 	<scope>source.shader</scope>
-	<description>     </description>
+	<description> 将叫[name]的变量请空改成type类型  </description>
 </snippet>
