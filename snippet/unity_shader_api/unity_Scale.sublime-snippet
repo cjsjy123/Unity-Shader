@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[unity_Scale]]></content>
+    <tabTrigger>unity_Scale</tabTrigger>
+    <scope>source.shader</scope>
+    <description></description>
+</snippet>

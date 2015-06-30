@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UNITY_MATRIX_TEXTURE2]]></content>
+    <tabTrigger>UNITY_MATRIX_TEXTURE2</tabTrigger>
+    <scope>source.shader</scope>
+    <description></description>
+</snippet>

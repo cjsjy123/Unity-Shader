@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[_Object2Light]]></content>
+    <tabTrigger>_Object2Light</tabTrigger>
+    <scope>source.shader</scope>
+    <description></description>
+</snippet>

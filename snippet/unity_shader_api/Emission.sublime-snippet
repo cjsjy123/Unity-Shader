@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Emission ${0:} ]]></content>
+	<tabTrigger>Emission</tabTrigger>
+	<scope>source.shader</scope>
+	<description>     </description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[_ObjectSpaceLightPos]]></content>
+    <tabTrigger>_ObjectSpaceLightPos</tabTrigger>
+    <scope>source.shader</scope>
+    <description></description>
+</snippet>

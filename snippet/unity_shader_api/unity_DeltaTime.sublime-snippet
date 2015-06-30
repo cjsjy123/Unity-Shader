@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[unity_DeltaTime]]></content>
+    <tabTrigger>unity_DeltaTime</tabTrigger>
+    <scope>source.shader</scope>
+    <description></description>
+</snippet>

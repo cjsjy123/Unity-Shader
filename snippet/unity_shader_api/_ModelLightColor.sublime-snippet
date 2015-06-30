@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[_ModelLightColor]]></content>
+    <tabTrigger>_ModelLightColor</tabTrigger>
+    <scope>source.shader</scope>
+    <description></description>
+</snippet>

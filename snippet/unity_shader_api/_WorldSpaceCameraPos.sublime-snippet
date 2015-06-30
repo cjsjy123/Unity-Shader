@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[_WorldSpaceCameraPos]]></content>
+    <tabTrigger>_WorldSpaceCameraPos</tabTrigger>
+    <scope>source.shader</scope>
+    <description></description>
+</snippet>

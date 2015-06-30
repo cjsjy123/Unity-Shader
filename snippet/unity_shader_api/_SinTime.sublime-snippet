@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[_SinTime]]></content>
+    <tabTrigger>_SinTime</tabTrigger>
+    <scope>source.shader</scope>
+    <description></description>
+</snippet>

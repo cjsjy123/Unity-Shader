@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[_SpecularLightColor]]></content>
+    <tabTrigger>_SpecularLightColor</tabTrigger>
+    <scope>source.shader</scope>
+    <description></description>
+</snippet>
