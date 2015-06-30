@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[half4 Lighting${1:}_PrePass (SurfaceOutput s, half4 light)
+{
+
+}  ]]></content>
+    <tabTrigger>Lighting</tabTrigger>
+    <scope>source.shader</scope>
+    <description>正向渲染光照函数模板</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[_Time]]></content>
+    <tabTrigger>_Time</tabTrigger>
+    <scope>source.shader</scope>
+    <description></description>
+</snippet>

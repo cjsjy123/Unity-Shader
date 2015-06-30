@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[half4 Lighting${1:} (SurfaceOutput s, half3 lightDir, half3 viewDir, half atten)
+{
+
+}  ]]></content>
+    <tabTrigger>Lighting</tabTrigger>
+    <scope>source.shader</scope>
+    <description>正向渲染光照函数模板</description>
+</snippet>
