@@ -1,12 +1,5 @@
 <snippet>
-	<content><![CDATA[struct appdata_tan
-{
-	vertex,
-	tangent,
-	normal,
-	texcoord,
-	${0:}
-}]]></content>
+	<content><![CDATA[ appdata_tan ${0:}]]></content>
 	<tabTrigger>appdata_tan</tabTrigger>
 	<scope>source.shader</scope>
 	<description>     </description>
