@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Transparent]]></content>
+    <tabTrigger>Transparent</tabTrigger>
+    <scope>source.shader</scope>
+    <description>Rendering Order</description>
+</snippet>

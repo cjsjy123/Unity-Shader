@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Geometry]]></content>
+    <tabTrigger>Geometry</tabTrigger>
+    <scope>source.shader</scope>
+    <description>Rendering Order</description>
+</snippet>

@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[Cull ${0:} on ]]></content>
+	<content><![CDATA[Cull ${0:} Back ]]></content>
 	<tabTrigger>Cull</tabTrigger>
 	<scope>source.shader</scope>
 	<description>     </description>

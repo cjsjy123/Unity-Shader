@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[IgnoreProjector]]></content>
+    <tabTrigger>IgnoreProjector</tabTrigger>
+    <scope>source.shader</scope>
+    <description>IgnoreProjector</description>
+</snippet>

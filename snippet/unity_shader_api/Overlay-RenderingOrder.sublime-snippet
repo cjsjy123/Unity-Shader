@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Overlay]]></content>
+    <tabTrigger>Overlay</tabTrigger>
+    <scope>source.shader</scope>
+    <description>Rendering Order</description>
+</snippet>
