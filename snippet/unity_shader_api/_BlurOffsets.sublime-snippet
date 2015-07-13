@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[_BlurOffsets ]]></content>
+    <tabTrigger>_BlurOffsets</tabTrigger>
+    <scope>source.shader</scope>
+    <description>内建变量</description>
+</snippet>

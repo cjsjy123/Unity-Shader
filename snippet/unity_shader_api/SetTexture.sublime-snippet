@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SetTexture(${0:})]]></content>
+	<content><![CDATA[SetTexture[${0:}]]></content>
 	<tabTrigger>SetTexture</tabTrigger>
 	<scope>source.shader</scope>
 	<description>     </description>
