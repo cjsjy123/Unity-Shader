@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[#pragma ${0:}]]></content>
+	<tabTrigger>pragma</tabTrigger>
+	<scope>source.shader</scope>
+</snippet>
