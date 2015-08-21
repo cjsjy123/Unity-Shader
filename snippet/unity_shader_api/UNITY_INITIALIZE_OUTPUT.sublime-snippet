@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UNITY_INITIALIZE_OUTPUT ]]></content>
+    <tabTrigger>UNITY_INITIALIZE_OUTPUT</tabTrigger>
+    <scope>source.shader</scope>
+    <description></description>
+</snippet>
