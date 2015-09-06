@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Unity_SafeNormalize]]></content>
+    <tabTrigger>Unity_SafeNormalize</tabTrigger>
+    <scope>source.shader</scope>
+    <description>Unity_SafeNormalize</description>
+</snippet>

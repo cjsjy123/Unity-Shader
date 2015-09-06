@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UnityDistanceBasedTess]]></content>
+    <tabTrigger>UnityDistanceBasedTess</tabTrigger>
+    <scope>source.shader</scope>
+    <description>UnityDistanceBasedTess</description>
+</snippet>

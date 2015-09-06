@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Occlusion]]></content>
+    <tabTrigger>Occlusion</tabTrigger>
+    <scope>source.shader</scope>
+    <description>Occlusion</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LightingBlinnPhong]]></content>
+    <tabTrigger>LightingBlinnPhong</tabTrigger>
+    <scope>source.shader</scope>
+    <description>LightingBlinnPhong</description>
+</snippet>

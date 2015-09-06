@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[BlinnTerm]]></content>
+    <tabTrigger>BlinnTerm</tabTrigger>
+    <scope>source.shader</scope>
+    <description>BlinnTerm</description>
+</snippet>

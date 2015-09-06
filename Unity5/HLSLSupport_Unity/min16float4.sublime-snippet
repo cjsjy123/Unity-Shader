@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[min16float4]]></content>
+    <tabTrigger>min16float4</tabTrigger>
+    <scope>source.shader</scope>
+    <description>#define min16float4 half4</description>
+</snippet>

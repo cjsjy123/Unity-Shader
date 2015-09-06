@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[SPEEDTREE_DATA_NORMAL]]></content>
+    <tabTrigger>SPEEDTREE_DATA_NORMAL</tabTrigger>
+    <scope>source.shader</scope>
+    <description>	#define SPEEDTREE_DATA_NORMAL			fixed3</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UnityCalcDistanceTessFactor]]></content>
+    <tabTrigger>UnityCalcDistanceTessFactor</tabTrigger>
+    <scope>source.shader</scope>
+    <description>UnityCalcDistanceTessFactor</description>
+</snippet>

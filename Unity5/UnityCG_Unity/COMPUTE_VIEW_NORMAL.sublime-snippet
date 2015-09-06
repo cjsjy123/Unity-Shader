@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[COMPUTE_VIEW_NORMAL]]></content>
+    <tabTrigger>COMPUTE_VIEW_NORMAL</tabTrigger>
+    <scope>source.shader</scope>
+    <description>#define COMPUTE_VIEW_NORMAL normalize</description>
+</snippet>

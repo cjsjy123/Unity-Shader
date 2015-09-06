@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[WorldNormal]]></content>
+    <tabTrigger>WorldNormal</tabTrigger>
+    <scope>source.shader</scope>
+    <description>WorldNormal</description>
+</snippet>

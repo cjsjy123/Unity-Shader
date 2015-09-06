@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LightingStandardSpecular_Deferred]]></content>
+    <tabTrigger>LightingStandardSpecular_Deferred</tabTrigger>
+    <scope>source.shader</scope>
+    <description>LightingStandardSpecular_Deferred</description>
+</snippet>

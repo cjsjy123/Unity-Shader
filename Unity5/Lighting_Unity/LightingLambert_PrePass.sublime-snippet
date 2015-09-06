@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LightingLambert_PrePass]]></content>
+    <tabTrigger>LightingLambert_PrePass</tabTrigger>
+    <scope>source.shader</scope>
+    <description>LightingLambert_PrePass</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[TerrainWaveGrass]]></content>
+    <tabTrigger>TerrainWaveGrass</tabTrigger>
+    <scope>source.shader</scope>
+    <description>TerrainWaveGrass</description>
+</snippet>

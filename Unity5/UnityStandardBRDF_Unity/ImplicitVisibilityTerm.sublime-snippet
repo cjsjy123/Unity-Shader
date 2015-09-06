@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[ImplicitVisibilityTerm]]></content>
+    <tabTrigger>ImplicitVisibilityTerm</tabTrigger>
+    <scope>source.shader</scope>
+    <description>ImplicitVisibilityTerm</description>
+</snippet>

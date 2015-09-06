@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UnityClipSpaceShadowCasterPos]]></content>
+    <tabTrigger>UnityClipSpaceShadowCasterPos</tabTrigger>
+    <scope>source.shader</scope>
+    <description>UnityClipSpaceShadowCasterPos</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[min10float3]]></content>
+    <tabTrigger>min10float3</tabTrigger>
+    <scope>source.shader</scope>
+    <description>#define min10float3 fixed3</description>
+</snippet>

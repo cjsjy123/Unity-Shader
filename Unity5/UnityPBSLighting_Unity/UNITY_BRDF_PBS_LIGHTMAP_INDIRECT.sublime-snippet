@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UNITY_BRDF_PBS_LIGHTMAP_INDIRECT]]></content>
+    <tabTrigger>UNITY_BRDF_PBS_LIGHTMAP_INDIRECT</tabTrigger>
+    <scope>source.shader</scope>
+    <description>	#define UNITY_BRDF_PBS_LIGHTMAP_INDIRECT BRDF2_Unity_PBS</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UnityObjectToWorldNormal]]></content>
+    <tabTrigger>UnityObjectToWorldNormal</tabTrigger>
+    <scope>source.shader</scope>
+    <description>UnityObjectToWorldNormal</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UNITY_PROJ_COORD]]></content>
+    <tabTrigger>UNITY_PROJ_COORD</tabTrigger>
+    <scope>source.shader</scope>
+    <description>a</description>
+</snippet>

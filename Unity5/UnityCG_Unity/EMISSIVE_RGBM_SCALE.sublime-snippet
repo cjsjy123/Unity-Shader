@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[EMISSIVE_RGBM_SCALE]]></content>
+    <tabTrigger>EMISSIVE_RGBM_SCALE</tabTrigger>
+    <scope>source.shader</scope>
+    <description>#define EMISSIVE_RGBM_SCALE 97</description>
+</snippet>

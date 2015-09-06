@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Turbulence]]></content>
+    <tabTrigger>Turbulence</tabTrigger>
+    <scope>source.shader</scope>
+    <description>Turbulence</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[EnergyConservationBetweenDiffuseAndSpecular]]></content>
+    <tabTrigger>EnergyConservationBetweenDiffuseAndSpecular</tabTrigger>
+    <scope>source.shader</scope>
+    <description>EnergyConservationBetweenDiffuseAndSpecular</description>
+</snippet>

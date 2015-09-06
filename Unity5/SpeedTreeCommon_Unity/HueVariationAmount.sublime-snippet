@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[HueVariationAmount]]></content>
+    <tabTrigger>HueVariationAmount</tabTrigger>
+    <scope>source.shader</scope>
+    <description>	#define HueVariationAmount interpolator1</description>
+</snippet>

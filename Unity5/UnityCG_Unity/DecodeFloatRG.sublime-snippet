@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[DecodeFloatRG]]></content>
+    <tabTrigger>DecodeFloatRG</tabTrigger>
+    <scope>source.shader</scope>
+    <description>DecodeFloatRG</description>
+</snippet>

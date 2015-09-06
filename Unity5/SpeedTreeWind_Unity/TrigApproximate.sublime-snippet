@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[TrigApproximate]]></content>
+    <tabTrigger>TrigApproximate</tabTrigger>
+    <scope>source.shader</scope>
+    <description>TrigApproximate</description>
+</snippet>

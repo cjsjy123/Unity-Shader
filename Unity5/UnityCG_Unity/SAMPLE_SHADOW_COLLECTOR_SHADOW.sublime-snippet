@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[SAMPLE_SHADOW_COLLECTOR_SHADOW]]></content>
+    <tabTrigger>SAMPLE_SHADOW_COLLECTOR_SHADOW</tabTrigger>
+    <scope>source.shader</scope>
+    <description>coord</description>
+</snippet>

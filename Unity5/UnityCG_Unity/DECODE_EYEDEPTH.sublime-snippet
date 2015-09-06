@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[DECODE_EYEDEPTH]]></content>
+    <tabTrigger>DECODE_EYEDEPTH</tabTrigger>
+    <scope>source.shader</scope>
+    <description>i</description>
+</snippet>

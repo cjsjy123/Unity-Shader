@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[NDFBlinnPhongNormalizedTerm]]></content>
+    <tabTrigger>NDFBlinnPhongNormalizedTerm</tabTrigger>
+    <scope>source.shader</scope>
+    <description>NDFBlinnPhongNormalizedTerm</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[RWStructuredBuffer]]></content>
+    <tabTrigger>RWStructuredBuffer</tabTrigger>
+    <scope>source.shader</scope>
+    <description>#define RWStructuredBuffer RW_RegularBuffer</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[OutputForward]]></content>
+    <tabTrigger>OutputForward</tabTrigger>
+    <scope>source.shader</scope>
+    <description>OutputForward</description>
+</snippet>

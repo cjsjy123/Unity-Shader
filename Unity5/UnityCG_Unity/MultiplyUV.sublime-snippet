@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[MultiplyUV]]></content>
+    <tabTrigger>MultiplyUV</tabTrigger>
+    <scope>source.shader</scope>
+    <description>MultiplyUV</description>
+</snippet>

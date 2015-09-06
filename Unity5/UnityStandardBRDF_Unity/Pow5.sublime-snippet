@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Pow5]]></content>
+    <tabTrigger>Pow5</tabTrigger>
+    <scope>source.shader</scope>
+    <description>Pow5</description>
+</snippet>

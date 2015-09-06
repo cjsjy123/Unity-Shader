@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[half4x4]]></content>
+    <tabTrigger>half4x4</tabTrigger>
+    <scope>source.shader</scope>
+    <description>#define half4x4 float4x4</description>
+</snippet>

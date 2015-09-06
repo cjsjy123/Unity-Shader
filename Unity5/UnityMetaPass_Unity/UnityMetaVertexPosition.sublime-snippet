@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UnityMetaVertexPosition]]></content>
+    <tabTrigger>UnityMetaVertexPosition</tabTrigger>
+    <scope>source.shader</scope>
+    <description>UnityMetaVertexPosition</description>
+</snippet>

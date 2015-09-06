@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[TRANSFORM_UV]]></content>
+    <tabTrigger>TRANSFORM_UV</tabTrigger>
+    <scope>source.shader</scope>
+    <description>idx</description>
+</snippet>

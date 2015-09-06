@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[FRAGMENT_SETUP_FWDADD]]></content>
+    <tabTrigger>FRAGMENT_SETUP_FWDADD</tabTrigger>
+    <scope>source.shader</scope>
+    <description>x</description>
+</snippet>

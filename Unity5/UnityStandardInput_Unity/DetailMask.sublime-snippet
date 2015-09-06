@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[DetailMask]]></content>
+    <tabTrigger>DetailMask</tabTrigger>
+    <scope>source.shader</scope>
+    <description>DetailMask</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[BoxProjectedCubemapDirection]]></content>
+    <tabTrigger>BoxProjectedCubemapDirection</tabTrigger>
+    <scope>source.shader</scope>
+    <description>BoxProjectedCubemapDirection</description>
+</snippet>

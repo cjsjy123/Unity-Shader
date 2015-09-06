@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LinearToGammaSpace]]></content>
+    <tabTrigger>LinearToGammaSpace</tabTrigger>
+    <scope>source.shader</scope>
+    <description>LinearToGammaSpace</description>
+</snippet>

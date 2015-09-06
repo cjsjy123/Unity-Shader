@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[SebLagardeFresnelTerm]]></content>
+    <tabTrigger>SebLagardeFresnelTerm</tabTrigger>
+    <scope>source.shader</scope>
+    <description>SebLagardeFresnelTerm</description>
+</snippet>

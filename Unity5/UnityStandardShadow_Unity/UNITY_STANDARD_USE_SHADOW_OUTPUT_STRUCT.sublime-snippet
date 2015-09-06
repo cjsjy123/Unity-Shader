@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UNITY_STANDARD_USE_SHADOW_OUTPUT_STRUCT]]></content>
+    <tabTrigger>UNITY_STANDARD_USE_SHADOW_OUTPUT_STRUCT</tabTrigger>
+    <scope>source.shader</scope>
+    <description>#define UNITY_STANDARD_USE_SHADOW_OUTPUT_STRUCT 1</description>
+</snippet>

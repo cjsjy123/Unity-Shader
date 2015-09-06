@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[samplerRECT]]></content>
+    <tabTrigger>samplerRECT</tabTrigger>
+    <scope>source.shader</scope>
+    <description>#define samplerRECT sampler2D</description>
+</snippet>

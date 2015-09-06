@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[fixed3x3]]></content>
+    <tabTrigger>fixed3x3</tabTrigger>
+    <scope>source.shader</scope>
+    <description>#define fixed3x3 half3x3</description>
+</snippet>

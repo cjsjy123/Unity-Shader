@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[FOGC]]></content>
+    <tabTrigger>FOGC</tabTrigger>
+    <scope>source.shader</scope>
+    <description>#define FOGC FOG</description>
+</snippet>

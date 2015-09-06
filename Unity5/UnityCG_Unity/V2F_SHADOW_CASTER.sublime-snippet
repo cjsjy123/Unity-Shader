@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[V2F_SHADOW_CASTER]]></content>
+    <tabTrigger>V2F_SHADOW_CASTER</tabTrigger>
+    <scope>source.shader</scope>
+    <description>#define V2F_SHADOW_CASTER V2F_SHADOW_CASTER_NOPOS</description>
+</snippet>

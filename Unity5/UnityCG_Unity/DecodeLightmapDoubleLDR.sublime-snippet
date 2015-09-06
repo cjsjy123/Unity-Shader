@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[DecodeLightmapDoubleLDR]]></content>
+    <tabTrigger>DecodeLightmapDoubleLDR</tabTrigger>
+    <scope>source.shader</scope>
+    <description>DecodeLightmapDoubleLDR</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[tex1Dproj]]></content>
+    <tabTrigger>tex1Dproj</tabTrigger>
+    <scope>source.shader</scope>
+    <description>tex1Dproj</description>
+</snippet>

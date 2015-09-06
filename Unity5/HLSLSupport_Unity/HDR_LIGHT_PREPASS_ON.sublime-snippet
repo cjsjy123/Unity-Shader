@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[HDR_LIGHT_PREPASS_ON]]></content>
+    <tabTrigger>HDR_LIGHT_PREPASS_ON</tabTrigger>
+    <scope>source.shader</scope>
+    <description>#define HDR_LIGHT_PREPASS_ON 1</description>
+</snippet>

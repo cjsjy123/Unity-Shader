@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UNITY_VPOS_TYPE]]></content>
+    <tabTrigger>UNITY_VPOS_TYPE</tabTrigger>
+    <scope>source.shader</scope>
+    <description>#define UNITY_VPOS_TYPE float4</description>
+</snippet>

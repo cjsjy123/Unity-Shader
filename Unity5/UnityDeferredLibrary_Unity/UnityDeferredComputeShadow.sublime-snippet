@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UnityDeferredComputeShadow]]></content>
+    <tabTrigger>UnityDeferredComputeShadow</tabTrigger>
+    <scope>source.shader</scope>
+    <description>UnityDeferredComputeShadow</description>
+</snippet>

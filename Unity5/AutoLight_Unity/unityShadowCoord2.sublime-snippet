@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[unityShadowCoord2]]></content>
+    <tabTrigger>unityShadowCoord2</tabTrigger>
+    <scope>source.shader</scope>
+    <description>	#define unityShadowCoord2 float2</description>
+</snippet>

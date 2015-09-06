@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[MetallicGloss]]></content>
+    <tabTrigger>MetallicGloss</tabTrigger>
+    <scope>source.shader</scope>
+    <description>MetallicGloss</description>
+</snippet>

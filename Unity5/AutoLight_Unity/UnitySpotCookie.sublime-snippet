@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UnitySpotCookie]]></content>
+    <tabTrigger>UnitySpotCookie</tabTrigger>
+    <scope>source.shader</scope>
+    <description>UnitySpotCookie</description>
+</snippet>

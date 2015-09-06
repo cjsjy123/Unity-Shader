@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UNITY_SAMPLE_1CHANNEL]]></content>
+    <tabTrigger>UNITY_SAMPLE_1CHANNEL</tabTrigger>
+    <scope>source.shader</scope>
+    <description>x,y</description>
+</snippet>

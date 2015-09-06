@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UNITY_SETUP_BRDF_INPUT]]></content>
+    <tabTrigger>UNITY_SETUP_BRDF_INPUT</tabTrigger>
+    <scope>source.shader</scope>
+    <description>	#define UNITY_SETUP_BRDF_INPUT SpecularSetup</description>
+</snippet>

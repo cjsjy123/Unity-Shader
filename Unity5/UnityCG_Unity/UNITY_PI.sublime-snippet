@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UNITY_PI]]></content>
+    <tabTrigger>UNITY_PI</tabTrigger>
+    <scope>source.shader</scope>
+    <description>#define UNITY_PI	3</description>
+</snippet>

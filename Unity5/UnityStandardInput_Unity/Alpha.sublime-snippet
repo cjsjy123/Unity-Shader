@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Alpha]]></content>
+    <tabTrigger>Alpha</tabTrigger>
+    <scope>source.shader</scope>
+    <description>Alpha</description>
+</snippet>

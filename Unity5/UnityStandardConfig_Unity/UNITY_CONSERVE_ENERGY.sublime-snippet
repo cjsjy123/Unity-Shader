@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UNITY_CONSERVE_ENERGY]]></content>
+    <tabTrigger>UNITY_CONSERVE_ENERGY</tabTrigger>
+    <scope>source.shader</scope>
+    <description>#define UNITY_CONSERVE_ENERGY 1</description>
+</snippet>

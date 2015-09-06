@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LerpOneTo]]></content>
+    <tabTrigger>LerpOneTo</tabTrigger>
+    <scope>source.shader</scope>
+    <description>LerpOneTo</description>
+</snippet>

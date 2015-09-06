@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[SmithBeckmannVisibilityTerm]]></content>
+    <tabTrigger>SmithBeckmannVisibilityTerm</tabTrigger>
+    <scope>source.shader</scope>
+    <description>SmithBeckmannVisibilityTerm</description>
+</snippet>

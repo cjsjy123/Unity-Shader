@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[PreMultiplyAlpha]]></content>
+    <tabTrigger>PreMultiplyAlpha</tabTrigger>
+    <scope>source.shader</scope>
+    <description>PreMultiplyAlpha</description>
+</snippet>

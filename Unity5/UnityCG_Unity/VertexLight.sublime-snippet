@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[VertexLight]]></content>
+    <tabTrigger>VertexLight</tabTrigger>
+    <scope>source.shader</scope>
+    <description>VertexLight</description>
+</snippet>

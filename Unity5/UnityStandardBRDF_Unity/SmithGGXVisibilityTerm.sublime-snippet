@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[SmithGGXVisibilityTerm]]></content>
+    <tabTrigger>SmithGGXVisibilityTerm</tabTrigger>
+    <scope>source.shader</scope>
+    <description>SmithGGXVisibilityTerm</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[EncodeViewNormalStereo]]></content>
+    <tabTrigger>EncodeViewNormalStereo</tabTrigger>
+    <scope>source.shader</scope>
+    <description>EncodeViewNormalStereo</description>
+</snippet>

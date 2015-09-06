@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[IN_LIGHTDIR_FWDADD]]></content>
+    <tabTrigger>IN_LIGHTDIR_FWDADD</tabTrigger>
+    <scope>source.shader</scope>
+    <description>i</description>
+</snippet>

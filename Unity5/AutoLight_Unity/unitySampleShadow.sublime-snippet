@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[unitySampleShadow]]></content>
+    <tabTrigger>unitySampleShadow</tabTrigger>
+    <scope>source.shader</scope>
+    <description>unitySampleShadow</description>
+</snippet>

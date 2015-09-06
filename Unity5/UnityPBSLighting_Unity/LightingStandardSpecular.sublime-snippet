@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LightingStandardSpecular]]></content>
+    <tabTrigger>LightingStandardSpecular</tabTrigger>
+    <scope>source.shader</scope>
+    <description>LightingStandardSpecular</description>
+</snippet>

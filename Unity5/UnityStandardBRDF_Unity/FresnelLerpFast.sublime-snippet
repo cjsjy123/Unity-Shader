@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[FresnelLerpFast]]></content>
+    <tabTrigger>FresnelLerpFast</tabTrigger>
+    <scope>source.shader</scope>
+    <description>FresnelLerpFast</description>
+</snippet>

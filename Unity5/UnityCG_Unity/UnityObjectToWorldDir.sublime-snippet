@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UnityObjectToWorldDir]]></content>
+    <tabTrigger>UnityObjectToWorldDir</tabTrigger>
+    <scope>source.shader</scope>
+    <description>UnityObjectToWorldDir</description>
+</snippet>

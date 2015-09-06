@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UnpackScaleNormal]]></content>
+    <tabTrigger>UnpackScaleNormal</tabTrigger>
+    <scope>source.shader</scope>
+    <description>UnpackScaleNormal</description>
+</snippet>

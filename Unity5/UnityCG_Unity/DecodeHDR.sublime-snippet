@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[DecodeHDR]]></content>
+    <tabTrigger>DecodeHDR</tabTrigger>
+    <scope>source.shader</scope>
+    <description>DecodeHDR</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[BranchBlend]]></content>
+    <tabTrigger>BranchBlend</tabTrigger>
+    <scope>source.shader</scope>
+    <description>	#define BranchBlend interpolator2</description>
+</snippet>

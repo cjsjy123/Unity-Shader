@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[msad4]]></content>
+    <tabTrigger>msad4</tabTrigger>
+    <scope>source.shader</scope>
+    <description>#define msad4						msad</description>
+</snippet>

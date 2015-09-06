@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UNITY_ARGS_TEXCUBE]]></content>
+    <tabTrigger>UNITY_ARGS_TEXCUBE</tabTrigger>
+    <scope>source.shader</scope>
+    <description>tex</description>
+</snippet>

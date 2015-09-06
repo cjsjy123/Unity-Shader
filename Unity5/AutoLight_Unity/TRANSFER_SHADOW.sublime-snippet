@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[TRANSFER_SHADOW]]></content>
+    <tabTrigger>TRANSFER_SHADOW</tabTrigger>
+    <scope>source.shader</scope>
+    <description>a</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[samplerCUBE_half]]></content>
+    <tabTrigger>samplerCUBE_half</tabTrigger>
+    <scope>source.shader</scope>
+    <description>#define samplerCUBE_half samplerCUBE</description>
+</snippet>

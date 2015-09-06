@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[SpecularGloss]]></content>
+    <tabTrigger>SpecularGloss</tabTrigger>
+    <scope>source.shader</scope>
+    <description>SpecularGloss</description>
+</snippet>

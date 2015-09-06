@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LambertTerm]]></content>
+    <tabTrigger>LambertTerm</tabTrigger>
+    <scope>source.shader</scope>
+    <description>LambertTerm</description>
+</snippet>

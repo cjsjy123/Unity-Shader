@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LIGHT_ATTENUATION]]></content>
+    <tabTrigger>LIGHT_ATTENUATION</tabTrigger>
+    <scope>source.shader</scope>
+    <description>a</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[DiffuseAndSpecularFromMetallic]]></content>
+    <tabTrigger>DiffuseAndSpecularFromMetallic</tabTrigger>
+    <scope>source.shader</scope>
+    <description>DiffuseAndSpecularFromMetallic</description>
+</snippet>

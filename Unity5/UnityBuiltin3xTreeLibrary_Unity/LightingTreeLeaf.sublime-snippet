@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LightingTreeLeaf]]></content>
+    <tabTrigger>LightingTreeLeaf</tabTrigger>
+    <scope>source.shader</scope>
+    <description>LightingTreeLeaf</description>
+</snippet>

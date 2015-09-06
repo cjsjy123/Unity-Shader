@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UnityWorldSpaceLightDir]]></content>
+    <tabTrigger>UnityWorldSpaceLightDir</tabTrigger>
+    <scope>source.shader</scope>
+    <description>UnityWorldSpaceLightDir</description>
+</snippet>

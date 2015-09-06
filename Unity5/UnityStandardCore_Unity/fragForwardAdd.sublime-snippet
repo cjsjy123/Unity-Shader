@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[fragForwardAdd]]></content>
+    <tabTrigger>fragForwardAdd</tabTrigger>
+    <scope>source.shader</scope>
+    <description>fragForwardAdd</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[texRECTlod]]></content>
+    <tabTrigger>texRECTlod</tabTrigger>
+    <scope>source.shader</scope>
+    <description>#define texRECTlod tex2Dlod</description>
+</snippet>

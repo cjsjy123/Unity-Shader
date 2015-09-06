@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[SmoothCurve]]></content>
+    <tabTrigger>SmoothCurve</tabTrigger>
+    <scope>source.shader</scope>
+    <description>SmoothCurve</description>
+</snippet>

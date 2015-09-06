@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UnityLambertLight]]></content>
+    <tabTrigger>UnityLambertLight</tabTrigger>
+    <scope>source.shader</scope>
+    <description>UnityLambertLight</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Luminance]]></content>
+    <tabTrigger>Luminance</tabTrigger>
+    <scope>source.shader</scope>
+    <description>Luminance</description>
+</snippet>

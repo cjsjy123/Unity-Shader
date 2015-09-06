@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UNITY_DITHER_CROSSFADE_COORDS]]></content>
+    <tabTrigger>UNITY_DITHER_CROSSFADE_COORDS</tabTrigger>
+    <scope>source.shader</scope>
+    <description>	#define UNITY_DITHER_CROSSFADE_COORDS					half3</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[FRAGMENT_SETUP]]></content>
+    <tabTrigger>FRAGMENT_SETUP</tabTrigger>
+    <scope>source.shader</scope>
+    <description>x</description>
+</snippet>

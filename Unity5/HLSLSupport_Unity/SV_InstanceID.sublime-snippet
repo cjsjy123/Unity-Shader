@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[SV_InstanceID]]></content>
+    <tabTrigger>SV_InstanceID</tabTrigger>
+    <scope>source.shader</scope>
+    <description>#define SV_InstanceID S_INSTANCE_ID</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[CookTorranceVisibilityTerm]]></content>
+    <tabTrigger>CookTorranceVisibilityTerm</tabTrigger>
+    <scope>source.shader</scope>
+    <description>CookTorranceVisibilityTerm</description>
+</snippet>

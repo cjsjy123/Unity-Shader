@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[texRECTproj]]></content>
+    <tabTrigger>texRECTproj</tabTrigger>
+    <scope>source.shader</scope>
+    <description>#define texRECTproj tex2Dproj</description>
+</snippet>

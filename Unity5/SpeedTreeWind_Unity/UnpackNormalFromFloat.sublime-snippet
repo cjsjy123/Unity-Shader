@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UnpackNormalFromFloat]]></content>
+    <tabTrigger>UnpackNormalFromFloat</tabTrigger>
+    <scope>source.shader</scope>
+    <description>UnpackNormalFromFloat</description>
+</snippet>

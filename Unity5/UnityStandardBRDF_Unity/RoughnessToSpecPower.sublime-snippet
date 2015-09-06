@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[RoughnessToSpecPower]]></content>
+    <tabTrigger>RoughnessToSpecPower</tabTrigger>
+    <scope>source.shader</scope>
+    <description>RoughnessToSpecPower</description>
+</snippet>

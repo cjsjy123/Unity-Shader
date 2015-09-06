@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[TriangleWave]]></content>
+    <tabTrigger>TriangleWave</tabTrigger>
+    <scope>source.shader</scope>
+    <description>TriangleWave</description>
+</snippet>

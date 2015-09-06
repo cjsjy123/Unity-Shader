@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[ObjSpaceLightDir]]></content>
+    <tabTrigger>ObjSpaceLightDir</tabTrigger>
+    <scope>source.shader</scope>
+    <description>ObjSpaceLightDir</description>
+</snippet>

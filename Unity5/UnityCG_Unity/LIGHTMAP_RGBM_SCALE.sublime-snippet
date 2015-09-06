@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LIGHTMAP_RGBM_SCALE]]></content>
+    <tabTrigger>LIGHTMAP_RGBM_SCALE</tabTrigger>
+    <scope>source.shader</scope>
+    <description>#define LIGHTMAP_RGBM_SCALE 5</description>
+</snippet>

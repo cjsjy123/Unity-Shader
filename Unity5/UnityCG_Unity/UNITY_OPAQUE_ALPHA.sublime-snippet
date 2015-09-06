@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UNITY_OPAQUE_ALPHA]]></content>
+    <tabTrigger>UNITY_OPAQUE_ALPHA</tabTrigger>
+    <scope>source.shader</scope>
+    <description>outputAlpha</description>
+</snippet>

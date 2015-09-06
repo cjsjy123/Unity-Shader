@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[PerturbNormal]]></content>
+    <tabTrigger>PerturbNormal</tabTrigger>
+    <scope>source.shader</scope>
+    <description>PerturbNormal</description>
+</snippet>

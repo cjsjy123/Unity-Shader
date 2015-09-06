@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UnityLightmappingAlbedo]]></content>
+    <tabTrigger>UnityLightmappingAlbedo</tabTrigger>
+    <scope>source.shader</scope>
+    <description>UnityLightmappingAlbedo</description>
+</snippet>

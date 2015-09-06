@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[FresnelTerm]]></content>
+    <tabTrigger>FresnelTerm</tabTrigger>
+    <scope>source.shader</scope>
+    <description>FresnelTerm</description>
+</snippet>

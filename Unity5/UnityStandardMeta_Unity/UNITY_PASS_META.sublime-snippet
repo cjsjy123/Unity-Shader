@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UNITY_PASS_META]]></content>
+    <tabTrigger>UNITY_PASS_META</tabTrigger>
+    <scope>source.shader</scope>
+    <description>#define UNITY_PASS_META 1</description>
+</snippet>

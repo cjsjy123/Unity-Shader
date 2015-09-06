@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[tex2Dgrad]]></content>
+    <tabTrigger>tex2Dgrad</tabTrigger>
+    <scope>source.shader</scope>
+    <description>#define tex2Dgrad tex2D</description>
+</snippet>

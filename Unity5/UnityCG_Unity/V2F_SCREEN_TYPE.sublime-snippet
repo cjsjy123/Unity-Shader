@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[V2F_SCREEN_TYPE]]></content>
+    <tabTrigger>V2F_SCREEN_TYPE</tabTrigger>
+    <scope>source.shader</scope>
+    <description>#define V2F_SCREEN_TYPE float4</description>
+</snippet>

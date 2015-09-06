@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[_TANGENT_TO_WORLD]]></content>
+    <tabTrigger>_TANGENT_TO_WORLD</tabTrigger>
+    <scope>source.shader</scope>
+    <description>	#define _TANGENT_TO_WORLD 1</description>
+</snippet>

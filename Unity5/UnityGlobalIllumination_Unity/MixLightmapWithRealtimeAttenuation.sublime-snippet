@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[MixLightmapWithRealtimeAttenuation]]></content>
+    <tabTrigger>MixLightmapWithRealtimeAttenuation</tabTrigger>
+    <scope>source.shader</scope>
+    <description>MixLightmapWithRealtimeAttenuation</description>
+</snippet>

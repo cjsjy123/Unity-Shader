@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UnityMetaFragment]]></content>
+    <tabTrigger>UnityMetaFragment</tabTrigger>
+    <scope>source.shader</scope>
+    <description>UnityMetaFragment</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[GetSpecPowToMip]]></content>
+    <tabTrigger>GetSpecPowToMip</tabTrigger>
+    <scope>source.shader</scope>
+    <description>GetSpecPowToMip</description>
+</snippet>

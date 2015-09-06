@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UNITY_CAN_COMPILE_TESSELLATION]]></content>
+    <tabTrigger>UNITY_CAN_COMPILE_TESSELLATION</tabTrigger>
+    <scope>source.shader</scope>
+    <description>#define UNITY_CAN_COMPILE_TESSELLATION 1</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UnityApplyLinearShadowBias]]></content>
+    <tabTrigger>UnityApplyLinearShadowBias</tabTrigger>
+    <scope>source.shader</scope>
+    <description>UnityApplyLinearShadowBias</description>
+</snippet>

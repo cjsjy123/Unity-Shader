@@ -1,4 +1,6 @@
 {
-    // must set the path
-    "Shader_path": ""
+    // must set the path and version  u5 or u4
+    "Unity_Version":"U5",
+    "Shader_path": "",
+    "U5_Shader_path":""
 }

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[VPOS]]></content>
+    <tabTrigger>VPOS</tabTrigger>
+    <scope>source.shader</scope>
+    <description>#define VPOS WPOS</description>
+</snippet>

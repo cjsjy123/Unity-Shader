@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[CBUFFER_START]]></content>
+    <tabTrigger>CBUFFER_START</tabTrigger>
+    <scope>source.shader</scope>
+    <description>name</description>
+</snippet>

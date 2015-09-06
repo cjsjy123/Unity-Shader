@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[TRANSFORM_TEX]]></content>
+    <tabTrigger>TRANSFORM_TEX</tabTrigger>
+    <scope>source.shader</scope>
+    <description>tex,name</description>
+</snippet>

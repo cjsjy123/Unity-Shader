@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[TexCoords]]></content>
+    <tabTrigger>TexCoords</tabTrigger>
+    <scope>source.shader</scope>
+    <description>TexCoords</description>
+</snippet>

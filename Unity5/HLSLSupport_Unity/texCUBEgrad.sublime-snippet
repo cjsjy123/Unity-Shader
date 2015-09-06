@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[texCUBEgrad]]></content>
+    <tabTrigger>texCUBEgrad</tabTrigger>
+    <scope>source.shader</scope>
+    <description>#define texCUBEgrad texCUBE</description>
+</snippet>

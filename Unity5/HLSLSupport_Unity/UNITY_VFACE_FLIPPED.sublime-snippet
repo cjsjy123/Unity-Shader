@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UNITY_VFACE_FLIPPED]]></content>
+    <tabTrigger>UNITY_VFACE_FLIPPED</tabTrigger>
+    <scope>source.shader</scope>
+    <description>#define UNITY_VFACE_FLIPPED 1</description>
+</snippet>

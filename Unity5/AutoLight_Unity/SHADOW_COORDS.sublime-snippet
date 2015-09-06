@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[SHADOW_COORDS]]></content>
+    <tabTrigger>SHADOW_COORDS</tabTrigger>
+    <scope>source.shader</scope>
+    <description>idx1</description>
+</snippet>

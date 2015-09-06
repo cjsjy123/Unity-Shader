@@ -21,21 +21,50 @@ except ImportError:
     from . import defaultdefine
 
 DEFINITION_LIST=[]
+U_Version =4
 
 def init():
     global DEFINITION_LIST
+    global U_Version 
+    checkUnityVersion()
     temp1 =json.loads(defaultdefine.inlist)
-    temp2 =json.loads(defaultdefine.oList)
+    temp2 =json.loads(defaultdefine.olist)
     temp3 =json.loads(defaultdefine.vlist)
-    temp4 =json.loads(defaultdefine.othersList)
+    temp4 =json.loads(defaultdefine.otherslist)
     DEFINITION_LIST=temp1 +temp2+temp3 +temp4
+    if(U_Version == 5):
+        temp5 =json.loads(defaultdefine.ulist)
+        temp6 =json.loads(defaultdefine.uvlist)
+        DEFINITION_LIST += temp5
+        DEFINITION_LIST += temp6
+
+
+def checkUnityVersion():
+    global U_Version 
+    settings = helper.loadSettings("Unity3D-Shader")
+    SUnity_Version = settings.get("Unity_Version", "")
+    if( len(SUnity_Version) == 0  ):
+        U_Version =4
+    elif "U4" in SUnity_Version:
+        U_Version =4
+    elif "U5" in SUnity_Version:
+        U_Version =5
 
 def checkUnityShaderRoot():
+    global U_Version 
     settings = helper.loadSettings("Unity3D-Shader")
     Shader_path = settings.get("Shader_path", "")
     if len(Shader_path)==0:
         sublime.error_message("Shader_path no set")
         return False
+
+    if U_Version== 5:
+        U5_path =settings.get("U5_Shader_path", "")
+        if len(U5_path)==0:
+            sublime.error_message("U5_Shader_path no set")
+            return False
+        else:
+            return U5_path 
     return Shader_path
 
 
@@ -55,7 +84,7 @@ class ShaderListener(sublime_plugin.EventListener):
 class ShaderGotoDefinitionCommand(sublime_plugin.TextCommand):
     def run(self, edit):
         # select text
-        
+        print("ShaderGotoDefinitionCommand")
         sel=self.view.substr(self.view.sel()[0])
         if len(sel)==0:
             # extend to the `word` under cursor
@@ -69,7 +98,7 @@ class ShaderGotoDefinitionCommand(sublime_plugin.TextCommand):
                 if key==sel:
                     matchList.append(item)
                     showList.append(item[1])
-
+        print("matchList")
         if len(matchList)==0:
             sublime.status_message("Can not find definition '%s'"%(sel))
         elif len(matchList)==1:
@@ -87,14 +116,16 @@ class ShaderGotoDefinitionCommand(sublime_plugin.TextCommand):
         self.gotoDefinition(item)
     
     def gotoDefinition(self,item):
+        print("ShaderGotoDefinitionCommand-1")
+       # print("----- item %s" %(item))
         definitionType=item[4]
         filepath=item[2]
         shader_root = checkUnityShaderRoot()
-        print("shader_root  %s" % shader_root)
+       # print("shader_root  %s" % shader_root)
         if shader_root != "":
            
             filepath=os.path.join(shader_root,filepath)
-        print("filepath  %s" % filepath)
+       # print("filepath  %s" % filepath)
         if os.path.exists(filepath):
             self.view.window().open_file(filepath+":"+str(item[3]),sublime.ENCODED_POSITION)
         else:

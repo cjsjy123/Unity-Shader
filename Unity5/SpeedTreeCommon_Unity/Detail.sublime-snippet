@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Detail]]></content>
+    <tabTrigger>Detail</tabTrigger>
+    <scope>source.shader</scope>
+    <description>	#define Detail interpolator2</description>
+</snippet>

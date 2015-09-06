@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[BranchWind]]></content>
+    <tabTrigger>BranchWind</tabTrigger>
+    <scope>source.shader</scope>
+    <description>BranchWind</description>
+</snippet>

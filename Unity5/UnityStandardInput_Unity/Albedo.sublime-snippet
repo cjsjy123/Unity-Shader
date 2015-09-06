@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Albedo]]></content>
+    <tabTrigger>Albedo</tabTrigger>
+    <scope>source.shader</scope>
+    <description>Albedo</description>
+</snippet>

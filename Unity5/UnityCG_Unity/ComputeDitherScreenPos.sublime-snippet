@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[ComputeDitherScreenPos]]></content>
+    <tabTrigger>ComputeDitherScreenPos</tabTrigger>
+    <scope>source.shader</scope>
+    <description>ComputeDitherScreenPos</description>
+</snippet>

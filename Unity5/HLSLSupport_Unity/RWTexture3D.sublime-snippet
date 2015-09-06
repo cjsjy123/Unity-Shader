@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[RWTexture3D]]></content>
+    <tabTrigger>RWTexture3D</tabTrigger>
+    <scope>source.shader</scope>
+    <description>#define RWTexture3D RW_Texture3D</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[COMPUTE_EYEDEPTH]]></content>
+    <tabTrigger>COMPUTE_EYEDEPTH</tabTrigger>
+    <scope>source.shader</scope>
+    <description>o</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[texture ]]></content>
+    <tabTrigger>texture</tabTrigger>
+    <scope>source.shader</scope>
+    <description></description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UnityEdgeLengthBasedTessCull]]></content>
+    <tabTrigger>UnityEdgeLengthBasedTessCull</tabTrigger>
+    <scope>source.shader</scope>
+    <description>UnityEdgeLengthBasedTessCull</description>
+</snippet>

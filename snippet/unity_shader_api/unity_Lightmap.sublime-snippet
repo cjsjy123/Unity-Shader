@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[unity_Lightmap ]]></content>
+    <tabTrigger>unity_Lightmap</tabTrigger>
+    <scope>source.shader</scope>
+    <description></description>
+</snippet>

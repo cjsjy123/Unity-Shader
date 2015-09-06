@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[WIND_QUALITY_BETTER]]></content>
+    <tabTrigger>WIND_QUALITY_BETTER</tabTrigger>
+    <scope>source.shader</scope>
+    <description>#define WIND_QUALITY_BETTER		3</description>
+</snippet>

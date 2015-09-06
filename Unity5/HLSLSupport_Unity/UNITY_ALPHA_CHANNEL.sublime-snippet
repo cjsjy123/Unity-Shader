@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UNITY_ALPHA_CHANNEL]]></content>
+    <tabTrigger>UNITY_ALPHA_CHANNEL</tabTrigger>
+    <scope>source.shader</scope>
+    <description>#define UNITY_ALPHA_CHANNEL a</description>
+</snippet>

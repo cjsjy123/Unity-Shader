@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[SCALED_NORMAL]]></content>
+    <tabTrigger>SCALED_NORMAL</tabTrigger>
+    <scope>source.shader</scope>
+    <description>#define SCALED_NORMAL v</description>
+</snippet>

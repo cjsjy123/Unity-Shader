@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[RDFBlinnPhongNormalizedTerm]]></content>
+    <tabTrigger>RDFBlinnPhongNormalizedTerm</tabTrigger>
+    <scope>source.shader</scope>
+    <description>RDFBlinnPhongNormalizedTerm</description>
+</snippet>

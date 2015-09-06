@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[fixed4x4]]></content>
+    <tabTrigger>fixed4x4</tabTrigger>
+    <scope>source.shader</scope>
+    <description>#define fixed4x4 half4x4</description>
+</snippet>

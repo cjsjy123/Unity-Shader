@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UNITY_BRDF_PBS]]></content>
+    <tabTrigger>UNITY_BRDF_PBS</tabTrigger>
+    <scope>source.shader</scope>
+    <description>		#define UNITY_BRDF_PBS BRDF1_Unity_PBS</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UNITY_STANDARD_USE_SHADOW_UVS]]></content>
+    <tabTrigger>UNITY_STANDARD_USE_SHADOW_UVS</tabTrigger>
+    <scope>source.shader</scope>
+    <description>#define UNITY_STANDARD_USE_SHADOW_UVS 1</description>
+</snippet>

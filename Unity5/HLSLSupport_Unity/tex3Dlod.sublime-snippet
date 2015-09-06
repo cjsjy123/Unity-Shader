@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[tex3Dlod]]></content>
+    <tabTrigger>tex3Dlod</tabTrigger>
+    <scope>source.shader</scope>
+    <description>tex3Dlod</description>
+</snippet>

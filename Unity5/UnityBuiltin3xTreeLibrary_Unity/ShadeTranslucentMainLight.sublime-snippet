@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[ShadeTranslucentMainLight]]></content>
+    <tabTrigger>ShadeTranslucentMainLight</tabTrigger>
+    <scope>source.shader</scope>
+    <description>ShadeTranslucentMainLight</description>
+</snippet>

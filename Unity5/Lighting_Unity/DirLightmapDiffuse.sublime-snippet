@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[DirLightmapDiffuse]]></content>
+    <tabTrigger>DirLightmapDiffuse</tabTrigger>
+    <scope>source.shader</scope>
+    <description>DirLightmapDiffuse</description>
+</snippet>

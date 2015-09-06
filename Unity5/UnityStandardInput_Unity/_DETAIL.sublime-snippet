@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[_DETAIL]]></content>
+    <tabTrigger>_DETAIL</tabTrigger>
+    <scope>source.shader</scope>
+    <description>	#define _DETAIL 1</description>
+</snippet>

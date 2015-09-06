@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UNITY_GLOSS_MATCHES_MARMOSET_TOOLBAG2]]></content>
+    <tabTrigger>UNITY_GLOSS_MATCHES_MARMOSET_TOOLBAG2</tabTrigger>
+    <scope>source.shader</scope>
+    <description>#define UNITY_GLOSS_MATCHES_MARMOSET_TOOLBAG2 1</description>
+</snippet>

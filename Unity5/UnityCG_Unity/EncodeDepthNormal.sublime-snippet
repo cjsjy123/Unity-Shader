@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[EncodeDepthNormal]]></content>
+    <tabTrigger>EncodeDepthNormal</tabTrigger>
+    <scope>source.shader</scope>
+    <description>EncodeDepthNormal</description>
+</snippet>

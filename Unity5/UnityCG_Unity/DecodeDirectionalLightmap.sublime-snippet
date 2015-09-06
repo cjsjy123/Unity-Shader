@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[DecodeDirectionalLightmap]]></content>
+    <tabTrigger>DecodeDirectionalLightmap</tabTrigger>
+    <scope>source.shader</scope>
+    <description>DecodeDirectionalLightmap</description>
+</snippet>

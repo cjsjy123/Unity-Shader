@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[KelemenVisibilityTerm]]></content>
+    <tabTrigger>KelemenVisibilityTerm</tabTrigger>
+    <scope>source.shader</scope>
+    <description>KelemenVisibilityTerm</description>
+</snippet>

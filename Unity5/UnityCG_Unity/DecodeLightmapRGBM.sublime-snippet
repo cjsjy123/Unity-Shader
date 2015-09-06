@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[DecodeLightmapRGBM]]></content>
+    <tabTrigger>DecodeLightmapRGBM</tabTrigger>
+    <scope>source.shader</scope>
+    <description>DecodeLightmapRGBM</description>
+</snippet>

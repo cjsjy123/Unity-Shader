@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[ParallaxOffset]]></content>
+    <tabTrigger>ParallaxOffset</tabTrigger>
+    <scope>source.shader</scope>
+    <description>ParallaxOffset</description>
+</snippet>

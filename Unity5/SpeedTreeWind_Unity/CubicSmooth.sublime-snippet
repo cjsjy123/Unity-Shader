@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[CubicSmooth]]></content>
+    <tabTrigger>CubicSmooth</tabTrigger>
+    <scope>source.shader</scope>
+    <description>CubicSmooth</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LinearEyeDepth]]></content>
+    <tabTrigger>LinearEyeDepth</tabTrigger>
+    <scope>source.shader</scope>
+    <description>LinearEyeDepth</description>
+</snippet>

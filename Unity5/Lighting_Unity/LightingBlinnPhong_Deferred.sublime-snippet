@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LightingBlinnPhong_Deferred]]></content>
+    <tabTrigger>LightingBlinnPhong_Deferred</tabTrigger>
+    <scope>source.shader</scope>
+    <description>LightingBlinnPhong_Deferred</description>
+</snippet>

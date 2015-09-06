@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[NormalInTangentSpace]]></content>
+    <tabTrigger>NormalInTangentSpace</tabTrigger>
+    <scope>source.shader</scope>
+    <description>NormalInTangentSpace</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[SV_POSITION]]></content>
+    <tabTrigger>SV_POSITION</tabTrigger>
+    <scope>source.shader</scope>
+    <description>#define SV_POSITION POSITION</description>
+</snippet>

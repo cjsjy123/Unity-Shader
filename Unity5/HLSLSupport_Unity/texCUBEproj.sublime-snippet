@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[texCUBEproj]]></content>
+    <tabTrigger>texCUBEproj</tabTrigger>
+    <scope>source.shader</scope>
+    <description>texCUBEproj</description>
+</snippet>

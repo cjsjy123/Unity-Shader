@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[FACE]]></content>
+    <tabTrigger>FACE</tabTrigger>
+    <scope>source.shader</scope>
+    <description>#define FACE VFACE</description>
+</snippet>

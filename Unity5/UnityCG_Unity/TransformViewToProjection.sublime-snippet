@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[TransformViewToProjection]]></content>
+    <tabTrigger>TransformViewToProjection</tabTrigger>
+    <scope>source.shader</scope>
+    <description>TransformViewToProjection</description>
+</snippet>

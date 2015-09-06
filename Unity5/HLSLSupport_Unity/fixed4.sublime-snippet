@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[fixed4]]></content>
+    <tabTrigger>fixed4</tabTrigger>
+    <scope>source.shader</scope>
+    <description>#define fixed4 float4</description>
+</snippet>

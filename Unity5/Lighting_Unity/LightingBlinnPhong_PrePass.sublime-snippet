@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[LightingBlinnPhong_PrePass]]></content>
+    <tabTrigger>LightingBlinnPhong_PrePass</tabTrigger>
+    <scope>source.shader</scope>
+    <description>LightingBlinnPhong_PrePass</description>
+</snippet>

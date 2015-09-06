@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UnityEncodeRGBM]]></content>
+    <tabTrigger>UnityEncodeRGBM</tabTrigger>
+    <scope>source.shader</scope>
+    <description>UnityEncodeRGBM</description>
+</snippet>

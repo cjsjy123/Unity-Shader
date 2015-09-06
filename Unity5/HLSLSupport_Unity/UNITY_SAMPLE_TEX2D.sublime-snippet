@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UNITY_SAMPLE_TEX2D]]></content>
+    <tabTrigger>UNITY_SAMPLE_TEX2D</tabTrigger>
+    <scope>source.shader</scope>
+    <description>tex,coord</description>
+</snippet>

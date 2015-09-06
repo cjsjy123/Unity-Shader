@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[SV_VertexID]]></content>
+    <tabTrigger>SV_VertexID</tabTrigger>
+    <scope>source.shader</scope>
+    <description>#define SV_VertexID S_VERTEX_ID</description>
+</snippet>

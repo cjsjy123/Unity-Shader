@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[WIND_QUALITY_FAST]]></content>
+    <tabTrigger>WIND_QUALITY_FAST</tabTrigger>
+    <scope>source.shader</scope>
+    <description>#define WIND_QUALITY_FAST		2</description>
+</snippet>

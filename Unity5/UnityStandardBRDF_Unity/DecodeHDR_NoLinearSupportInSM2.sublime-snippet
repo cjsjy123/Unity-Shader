@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[DecodeHDR_NoLinearSupportInSM2]]></content>
+    <tabTrigger>DecodeHDR_NoLinearSupportInSM2</tabTrigger>
+    <scope>source.shader</scope>
+    <description>DecodeHDR_NoLinearSupportInSM2</description>
+</snippet>

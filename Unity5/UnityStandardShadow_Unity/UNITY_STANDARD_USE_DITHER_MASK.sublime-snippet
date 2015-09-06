@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UNITY_STANDARD_USE_DITHER_MASK]]></content>
+    <tabTrigger>UNITY_STANDARD_USE_DITHER_MASK</tabTrigger>
+    <scope>source.shader</scope>
+    <description>	#define UNITY_STANDARD_USE_DITHER_MASK 1</description>
+</snippet>

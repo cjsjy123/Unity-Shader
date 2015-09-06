@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UnityPixelSnap]]></content>
+    <tabTrigger>UnityPixelSnap</tabTrigger>
+    <scope>source.shader</scope>
+    <description>UnityPixelSnap</description>
+</snippet>

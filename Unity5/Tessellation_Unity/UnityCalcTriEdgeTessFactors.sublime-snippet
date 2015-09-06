@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UnityCalcTriEdgeTessFactors]]></content>
+    <tabTrigger>UnityCalcTriEdgeTessFactors</tabTrigger>
+    <scope>source.shader</scope>
+    <description>UnityCalcTriEdgeTessFactors</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[ShadeSH12Order]]></content>
+    <tabTrigger>ShadeSH12Order</tabTrigger>
+    <scope>source.shader</scope>
+    <description>ShadeSH12Order</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UnityEncodeCubeShadowDepth]]></content>
+    <tabTrigger>UnityEncodeCubeShadowDepth</tabTrigger>
+    <scope>source.shader</scope>
+    <description>UnityEncodeCubeShadowDepth</description>
+</snippet>

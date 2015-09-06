@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[QUAD ]]></content>
+    <tabTrigger>QUAD</tabTrigger>
+    <scope>source.shader</scope>
+    <description></description>
+</snippet>

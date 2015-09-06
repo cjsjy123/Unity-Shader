@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[SpecularStrength]]></content>
+    <tabTrigger>SpecularStrength</tabTrigger>
+    <scope>source.shader</scope>
+    <description>SpecularStrength</description>
+</snippet>

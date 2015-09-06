@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UnpackNormalDXT5nm]]></content>
+    <tabTrigger>UnpackNormalDXT5nm</tabTrigger>
+    <scope>source.shader</scope>
+    <description>UnpackNormalDXT5nm</description>
+</snippet>

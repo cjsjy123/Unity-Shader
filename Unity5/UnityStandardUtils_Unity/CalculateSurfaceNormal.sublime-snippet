@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[CalculateSurfaceNormal]]></content>
+    <tabTrigger>CalculateSurfaceNormal</tabTrigger>
+    <scope>source.shader</scope>
+    <description>CalculateSurfaceNormal</description>
+</snippet>

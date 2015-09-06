@@ -14,7 +14,7 @@
 			<key>comment</key>
 			<string>Keywords</string>
 			<key>match</key>
-			<string>(Sub)?Shader|Category|Properties|CGINCLUDE|FallBack|Tags|LOD|Cull|Blend|AlphaTest|ColorMask|Lighting|ZWrite|BindChannels|Pass|return</string>
+			<string>(Sub)?Shader|Category|SeparateSpecular|Fog|Material|ColorMaterial|Name|Properties|CGINCLUDE|FallBack|Tags|LOD|Cull|Blend|AlphaTest|ColorMask|Lighting|ZWrite|BindChannels|Pass|return</string>
 			<key>name</key>
 			<string>keyword.source.shader</string>
 		</dict>
@@ -67,7 +67,7 @@
 			<key>comment</key>
 			<string>functions</string>
 			<key>match</key>
-			<string>(length|cross|pow|tex2D|UnpackNormal|saturate|dot|normalize|clip|frac|mul|TRANSFORM_TEX|SetTexture|combine|UnityPixelSnap)</string>
+			<string>(length|cross|pow|tex2D|UnpackNormal|saturate|dot|normalize|clip|frac|mul|TRANSFORM_TEX|Bind|SetTexture|matrix|constantColor|combine|UnityPixelSnap)</string>
 			<key>name</key>
 			<string>support.function.any-method.shader</string>
 		</dict>

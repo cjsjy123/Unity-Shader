@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[SampleCubeDistance]]></content>
+    <tabTrigger>SampleCubeDistance</tabTrigger>
+    <scope>source.shader</scope>
+    <description>SampleCubeDistance</description>
+</snippet>

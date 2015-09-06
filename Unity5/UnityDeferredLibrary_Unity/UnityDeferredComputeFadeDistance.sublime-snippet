@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UnityDeferredComputeFadeDistance]]></content>
+    <tabTrigger>UnityDeferredComputeFadeDistance</tabTrigger>
+    <scope>source.shader</scope>
+    <description>UnityDeferredComputeFadeDistance</description>
+</snippet>

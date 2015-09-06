@@ -8,7 +8,7 @@ uuid: e3872ec7-60d7-4cc2-bf8f-57da56c339f2
 patterns:
 - comment: Keywords
   name: keyword.source.shader
-  match: (Sub)?Shader|Category|Properties|CGINCLUDE|FallBack|Tags|LOD|Cull|Blend|AlphaTest|ColorMask|Lighting|ZWrite|BindChannels|Pass|return
+  match: (Sub)?Shader|Category|SeparateSpecular|Fog|Material|ColorMaterial|Name|Properties|CGINCLUDE|FallBack|Tags|LOD|Cull|Blend|AlphaTest|ColorMask|Lighting|ZWrite|BindChannels|Pass|return
 - comment: Comment
   name: comment.source.shader
   match: //.*$
@@ -27,7 +27,7 @@ patterns:
     # '3': {name: meta.preprocessor.source.shader}
 - comment: functions
   name: support.function.any-method.shader
-  match: (length|cross|pow|tex2D|UnpackNormal|saturate|dot|normalize|clip|frac|mul|TRANSFORM_TEX|SetTexture|combine|UnityPixelSnap)
+  match: (length|cross|pow|tex2D|UnpackNormal|saturate|dot|normalize|clip|frac|mul|TRANSFORM_TEX|Bind|SetTexture|matrix|constantColor|combine|UnityPixelSnap)
 - comment: number literals
   name: constant.numeric.source.shader
   match: \b([-+]?([0-9]+(\.[0-9]+)?|\.[0-9]+)[\s]*,[\s]*)*([-+]?([0-9]+(\.[0-9]+)?|\.[0-9]+)[fF]?)+\b

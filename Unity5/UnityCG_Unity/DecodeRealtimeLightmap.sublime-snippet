@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[DecodeRealtimeLightmap]]></content>
+    <tabTrigger>DecodeRealtimeLightmap</tabTrigger>
+    <scope>source.shader</scope>
+    <description>DecodeRealtimeLightmap</description>
+</snippet>

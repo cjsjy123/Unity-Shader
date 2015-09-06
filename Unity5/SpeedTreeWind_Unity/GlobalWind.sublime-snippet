@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[GlobalWind]]></content>
+    <tabTrigger>GlobalWind</tabTrigger>
+    <scope>source.shader</scope>
+    <description>GlobalWind</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[NormalizePerPixelNormal]]></content>
+    <tabTrigger>NormalizePerPixelNormal</tabTrigger>
+    <scope>source.shader</scope>
+    <description>NormalizePerPixelNormal</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[TRANSFER_SHADOW_CASTER_NORMALOFFSET]]></content>
+    <tabTrigger>TRANSFER_SHADOW_CASTER_NORMALOFFSET</tabTrigger>
+    <scope>source.shader</scope>
+    <description>o</description>
+</snippet>

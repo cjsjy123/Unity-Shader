@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Unity_GlossyEnvironment]]></content>
+    <tabTrigger>Unity_GlossyEnvironment</tabTrigger>
+    <scope>source.shader</scope>
+    <description>Unity_GlossyEnvironment</description>
+</snippet>

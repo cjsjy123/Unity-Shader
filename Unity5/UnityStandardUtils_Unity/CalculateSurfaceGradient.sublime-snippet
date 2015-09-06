@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[CalculateSurfaceGradient]]></content>
+    <tabTrigger>CalculateSurfaceGradient</tabTrigger>
+    <scope>source.shader</scope>
+    <description>CalculateSurfaceGradient</description>
+</snippet>

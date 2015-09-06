@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[GGXTerm]]></content>
+    <tabTrigger>GGXTerm</tabTrigger>
+    <scope>source.shader</scope>
+    <description>GGXTerm</description>
+</snippet>

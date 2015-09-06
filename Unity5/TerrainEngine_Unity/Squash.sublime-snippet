@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Squash]]></content>
+    <tabTrigger>Squash</tabTrigger>
+    <scope>source.shader</scope>
+    <description>Squash</description>
+</snippet>

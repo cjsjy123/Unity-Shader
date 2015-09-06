@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[BRDF_Unity_Indirect]]></content>
+    <tabTrigger>BRDF_Unity_Indirect</tabTrigger>
+    <scope>source.shader</scope>
+    <description>BRDF_Unity_Indirect</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UnityDistanceFromPlane]]></content>
+    <tabTrigger>UnityDistanceFromPlane</tabTrigger>
+    <scope>source.shader</scope>
+    <description>UnityDistanceFromPlane</description>
+</snippet>

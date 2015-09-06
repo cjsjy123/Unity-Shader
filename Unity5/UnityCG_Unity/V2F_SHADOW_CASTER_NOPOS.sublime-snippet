@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[V2F_SHADOW_CASTER_NOPOS]]></content>
+    <tabTrigger>V2F_SHADOW_CASTER_NOPOS</tabTrigger>
+    <scope>source.shader</scope>
+    <description>		#define V2F_SHADOW_CASTER_NOPOS float4</description>
+</snippet>

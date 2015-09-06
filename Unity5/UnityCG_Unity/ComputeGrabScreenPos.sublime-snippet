@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[ComputeGrabScreenPos]]></content>
+    <tabTrigger>ComputeGrabScreenPos</tabTrigger>
+    <scope>source.shader</scope>
+    <description>ComputeGrabScreenPos</description>
+</snippet>

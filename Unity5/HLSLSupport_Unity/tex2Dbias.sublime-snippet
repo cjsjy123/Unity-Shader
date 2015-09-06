@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[tex2Dbias]]></content>
+    <tabTrigger>tex2Dbias</tabTrigger>
+    <scope>source.shader</scope>
+    <description>tex2Dbias</description>
+</snippet>

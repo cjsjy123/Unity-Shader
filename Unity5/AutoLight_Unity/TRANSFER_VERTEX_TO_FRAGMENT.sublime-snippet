@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[TRANSFER_VERTEX_TO_FRAGMENT]]></content>
+    <tabTrigger>TRANSFER_VERTEX_TO_FRAGMENT</tabTrigger>
+    <scope>source.shader</scope>
+    <description>a</description>
+</snippet>

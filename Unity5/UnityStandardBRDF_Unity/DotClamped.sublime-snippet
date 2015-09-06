@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[DotClamped]]></content>
+    <tabTrigger>DotClamped</tabTrigger>
+    <scope>source.shader</scope>
+    <description>DotClamped</description>
+</snippet>

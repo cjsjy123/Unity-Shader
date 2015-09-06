@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UNITY_DECLARE_TEX2D_NOSAMPLER]]></content>
+    <tabTrigger>UNITY_DECLARE_TEX2D_NOSAMPLER</tabTrigger>
+    <scope>source.shader</scope>
+    <description>tex</description>
+</snippet>

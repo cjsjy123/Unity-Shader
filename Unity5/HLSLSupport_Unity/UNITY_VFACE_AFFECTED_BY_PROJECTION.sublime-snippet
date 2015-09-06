@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UNITY_VFACE_AFFECTED_BY_PROJECTION]]></content>
+    <tabTrigger>UNITY_VFACE_AFFECTED_BY_PROJECTION</tabTrigger>
+    <scope>source.shader</scope>
+    <description>#define UNITY_VFACE_AFFECTED_BY_PROJECTION 1</description>
+</snippet>

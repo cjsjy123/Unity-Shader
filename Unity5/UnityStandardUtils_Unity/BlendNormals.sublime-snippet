@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[BlendNormals]]></content>
+    <tabTrigger>BlendNormals</tabTrigger>
+    <scope>source.shader</scope>
+    <description>BlendNormals</description>
+</snippet>
