@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[unity_SpecCube1_ProbePosition]]></content>
+    <tabTrigger>unity_SpecCube1_ProbePosition</tabTrigger>
+    <scope>source.shader</scope>
+    <description>float4 unity_SpecCube1_ProbePosition</description>
+</snippet>

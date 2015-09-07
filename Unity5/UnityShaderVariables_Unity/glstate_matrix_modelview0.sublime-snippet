@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[glstate_matrix_modelview0]]></content>
+    <tabTrigger>glstate_matrix_modelview0</tabTrigger>
+    <scope>source.shader</scope>
+    <description>float4x4 glstate_matrix_modelview0</description>
+</snippet>

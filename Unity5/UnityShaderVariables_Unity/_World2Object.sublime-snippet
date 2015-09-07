@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[_World2Object]]></content>
+    <tabTrigger>_World2Object</tabTrigger>
+    <scope>source.shader</scope>
+    <description>uniform float4x4 _World2Object</description>
+</snippet>

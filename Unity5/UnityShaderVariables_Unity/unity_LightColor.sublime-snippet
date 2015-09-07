@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[unity_LightColor]]></content>
+    <tabTrigger>unity_LightColor</tabTrigger>
+    <scope>source.shader</scope>
+    <description>half4 unity_LightColor</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[unity_ShadowSplitSpheres]]></content>
+    <tabTrigger>unity_ShadowSplitSpheres</tabTrigger>
+    <scope>source.shader</scope>
+    <description>float4 unity_ShadowSplitSpheres</description>
+</snippet>

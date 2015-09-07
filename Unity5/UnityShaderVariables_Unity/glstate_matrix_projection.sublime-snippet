@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[glstate_matrix_projection]]></content>
+    <tabTrigger>glstate_matrix_projection</tabTrigger>
+    <scope>source.shader</scope>
+    <description>float4x4 glstate_matrix_projection</description>
+</snippet>

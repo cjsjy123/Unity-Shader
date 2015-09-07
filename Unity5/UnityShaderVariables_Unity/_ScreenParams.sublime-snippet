@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[_ScreenParams]]></content>
+    <tabTrigger>_ScreenParams</tabTrigger>
+    <scope>source.shader</scope>
+    <description>uniform float4 _ScreenParams</description>
+</snippet>

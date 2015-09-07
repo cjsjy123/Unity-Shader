@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[unity_CameraProjection]]></content>
+    <tabTrigger>unity_CameraProjection</tabTrigger>
+    <scope>source.shader</scope>
+    <description>uniform float4x4 unity_CameraProjection</description>
+</snippet>

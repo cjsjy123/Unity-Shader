@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[unity_FogColor]]></content>
+    <tabTrigger>unity_FogColor</tabTrigger>
+    <scope>source.shader</scope>
+    <description>uniform fixed4 unity_FogColor</description>
+</snippet>

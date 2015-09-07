@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[unity_OrthoParams]]></content>
+    <tabTrigger>unity_OrthoParams</tabTrigger>
+    <scope>source.shader</scope>
+    <description>uniform float4 unity_OrthoParams</description>
+</snippet>

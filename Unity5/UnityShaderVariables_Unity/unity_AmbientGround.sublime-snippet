@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[unity_AmbientGround]]></content>
+    <tabTrigger>unity_AmbientGround</tabTrigger>
+    <scope>source.shader</scope>
+    <description>fixed4 unity_AmbientGround</description>
+</snippet>

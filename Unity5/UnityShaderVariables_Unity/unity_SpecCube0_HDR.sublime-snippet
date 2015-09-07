@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[unity_SpecCube0_HDR]]></content>
+    <tabTrigger>unity_SpecCube0_HDR</tabTrigger>
+    <scope>source.shader</scope>
+    <description>half4  unity_SpecCube0_HDR</description>
+</snippet>

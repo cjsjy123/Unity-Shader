@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[_LightSplitsFar]]></content>
+    <tabTrigger>_LightSplitsFar</tabTrigger>
+    <scope>source.shader</scope>
+    <description>float4 _LightSplitsFar</description>
+</snippet>

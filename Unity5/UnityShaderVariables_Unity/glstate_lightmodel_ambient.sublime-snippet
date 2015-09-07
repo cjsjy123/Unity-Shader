@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[glstate_lightmodel_ambient]]></content>
+    <tabTrigger>glstate_lightmodel_ambient</tabTrigger>
+    <scope>source.shader</scope>
+    <description>fixed4	 glstate_lightmodel_ambient</description>
+</snippet>

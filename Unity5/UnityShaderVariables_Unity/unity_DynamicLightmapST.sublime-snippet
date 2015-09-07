@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[unity_DynamicLightmapST]]></content>
+    <tabTrigger>unity_DynamicLightmapST</tabTrigger>
+    <scope>source.shader</scope>
+    <description>float4 unity_DynamicLightmapST</description>
+</snippet>

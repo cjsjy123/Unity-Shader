@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[_ProjectionParams]]></content>
+    <tabTrigger>_ProjectionParams</tabTrigger>
+    <scope>source.shader</scope>
+    <description>uniform float4 _ProjectionParams</description>
+</snippet>

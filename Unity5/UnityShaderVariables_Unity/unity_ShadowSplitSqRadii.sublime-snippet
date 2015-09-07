@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[unity_ShadowSplitSqRadii]]></content>
+    <tabTrigger>unity_ShadowSplitSqRadii</tabTrigger>
+    <scope>source.shader</scope>
+    <description>float4 unity_ShadowSplitSqRadii</description>
+</snippet>

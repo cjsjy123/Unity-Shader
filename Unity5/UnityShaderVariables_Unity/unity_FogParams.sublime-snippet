@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[unity_FogParams]]></content>
+    <tabTrigger>unity_FogParams</tabTrigger>
+    <scope>source.shader</scope>
+    <description>uniform float4 unity_FogParams</description>
+</snippet>

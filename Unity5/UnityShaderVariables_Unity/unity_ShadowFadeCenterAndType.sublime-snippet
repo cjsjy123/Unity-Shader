@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[unity_ShadowFadeCenterAndType]]></content>
+    <tabTrigger>unity_ShadowFadeCenterAndType</tabTrigger>
+    <scope>source.shader</scope>
+    <description>float4 unity_ShadowFadeCenterAndType</description>
+</snippet>

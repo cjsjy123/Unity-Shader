@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[_LightSplitsNear]]></content>
+    <tabTrigger>_LightSplitsNear</tabTrigger>
+    <scope>source.shader</scope>
+    <description>float4 _LightSplitsNear</description>
+</snippet>

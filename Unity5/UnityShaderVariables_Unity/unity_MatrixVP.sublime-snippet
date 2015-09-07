@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[unity_MatrixVP]]></content>
+    <tabTrigger>unity_MatrixVP</tabTrigger>
+    <scope>source.shader</scope>
+    <description>float4x4 unity_MatrixVP</description>
+</snippet>

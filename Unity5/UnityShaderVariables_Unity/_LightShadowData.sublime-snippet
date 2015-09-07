@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[_LightShadowData]]></content>
+    <tabTrigger>_LightShadowData</tabTrigger>
+    <scope>source.shader</scope>
+    <description>half4 _LightShadowData</description>
+</snippet>

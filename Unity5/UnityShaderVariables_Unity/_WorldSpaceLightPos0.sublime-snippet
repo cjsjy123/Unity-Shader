@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[_WorldSpaceLightPos0]]></content>
+    <tabTrigger>_WorldSpaceLightPos0</tabTrigger>
+    <scope>source.shader</scope>
+    <description>uniform float4 _WorldSpaceLightPos0</description>
+</snippet>

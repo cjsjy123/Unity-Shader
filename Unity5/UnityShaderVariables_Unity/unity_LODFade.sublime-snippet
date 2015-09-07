@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[unity_LODFade]]></content>
+    <tabTrigger>unity_LODFade</tabTrigger>
+    <scope>source.shader</scope>
+    <description>uniform float4 unity_LODFade</description>
+</snippet>

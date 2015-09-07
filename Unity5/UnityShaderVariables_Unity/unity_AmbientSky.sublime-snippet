@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[unity_AmbientSky]]></content>
+    <tabTrigger>unity_AmbientSky</tabTrigger>
+    <scope>source.shader</scope>
+    <description>fixed4 unity_AmbientSky</description>
+</snippet>

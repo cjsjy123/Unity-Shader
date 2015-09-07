@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[unity_AmbientEquator]]></content>
+    <tabTrigger>unity_AmbientEquator</tabTrigger>
+    <scope>source.shader</scope>
+    <description>fixed4 unity_AmbientEquator</description>
+</snippet>

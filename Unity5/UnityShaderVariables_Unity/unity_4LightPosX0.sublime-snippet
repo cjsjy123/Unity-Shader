@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[unity_4LightPosX0]]></content>
+    <tabTrigger>unity_4LightPosX0</tabTrigger>
+    <scope>source.shader</scope>
+    <description>float4 unity_4LightPosX0</description>
+</snippet>

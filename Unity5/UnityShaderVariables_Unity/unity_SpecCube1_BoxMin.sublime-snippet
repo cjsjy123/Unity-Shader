@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[unity_SpecCube1_BoxMin]]></content>
+    <tabTrigger>unity_SpecCube1_BoxMin</tabTrigger>
+    <scope>source.shader</scope>
+    <description>float4 unity_SpecCube1_BoxMin</description>
+</snippet>

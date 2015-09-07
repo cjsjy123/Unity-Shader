@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[unity_4LightAtten0]]></content>
+    <tabTrigger>unity_4LightAtten0</tabTrigger>
+    <scope>source.shader</scope>
+    <description>half4 unity_4LightAtten0</description>
+</snippet>

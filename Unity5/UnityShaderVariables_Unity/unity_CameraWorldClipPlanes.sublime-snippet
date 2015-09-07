@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[unity_CameraWorldClipPlanes]]></content>
+    <tabTrigger>unity_CameraWorldClipPlanes</tabTrigger>
+    <scope>source.shader</scope>
+    <description>uniform float4 unity_CameraWorldClipPlanes</description>
+</snippet>

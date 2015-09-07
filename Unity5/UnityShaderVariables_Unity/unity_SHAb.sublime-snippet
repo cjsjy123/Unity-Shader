@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[unity_SHAb]]></content>
+    <tabTrigger>unity_SHAb</tabTrigger>
+    <scope>source.shader</scope>
+    <description>half4 unity_SHAb</description>
+</snippet>

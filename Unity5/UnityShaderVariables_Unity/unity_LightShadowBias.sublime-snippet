@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[unity_LightShadowBias]]></content>
+    <tabTrigger>unity_LightShadowBias</tabTrigger>
+    <scope>source.shader</scope>
+    <description>float4 unity_LightShadowBias</description>
+</snippet>

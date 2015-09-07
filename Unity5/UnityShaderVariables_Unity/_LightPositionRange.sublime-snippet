@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[_LightPositionRange]]></content>
+    <tabTrigger>_LightPositionRange</tabTrigger>
+    <scope>source.shader</scope>
+    <description>uniform float4 _LightPositionRange</description>
+</snippet>
