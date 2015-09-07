@@ -31,12 +31,14 @@ def init():
     temp2 =json.loads(defaultdefine.olist)
     temp3 =json.loads(defaultdefine.vlist)
     temp4 =json.loads(defaultdefine.otherslist)
-    DEFINITION_LIST=temp1 +temp2+temp3 +temp4
+    
     if(U_Version == 5):
         temp5 =json.loads(defaultdefine.ulist)
         temp6 =json.loads(defaultdefine.uvlist)
         DEFINITION_LIST += temp5
         DEFINITION_LIST += temp6
+    else:
+        DEFINITION_LIST=temp1 +temp2+temp3 +temp4
 
 
 def checkUnityVersion():
