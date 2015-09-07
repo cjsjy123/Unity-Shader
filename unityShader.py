@@ -41,7 +41,7 @@ def init():
 
 def checkUnityVersion():
     global U_Version 
-    settings = helper.loadSettings("Unity3D-Shader")
+    settings = helper.loadSettings("UnityShader")
     SUnity_Version = settings.get("Unity_Version", "")
     if( len(SUnity_Version) == 0  ):
         U_Version =4
@@ -52,11 +52,9 @@ def checkUnityVersion():
 
 def checkUnityShaderRoot():
     global U_Version 
-    settings = helper.loadSettings("Unity3D-Shader")
+    settings = helper.loadSettings("UnityShader")
     Shader_path = settings.get("Shader_path", "")
-    if len(Shader_path)==0:
-        sublime.error_message("Shader_path no set")
-        return False
+
 
     if U_Version== 5:
         U5_path =settings.get("U5_Shader_path", "")
@@ -65,6 +63,11 @@ def checkUnityShaderRoot():
             return False
         else:
             return U5_path 
+    else:
+        if len(Shader_path)==0 :
+            sublime.error_message("Shader_path no set")
+            return False
+
     return Shader_path
 
 
