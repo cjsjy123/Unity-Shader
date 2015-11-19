@@ -11,8 +11,8 @@ import subprocess
 import sys
 import time
 import codecs
-from xml.etree import ElementTree as ET
-from urllib import urlopen
+# from xml.etree import ElementTree as ET
+# from urllib import urlopen
 try:
     import helper
     import defaultdefine
