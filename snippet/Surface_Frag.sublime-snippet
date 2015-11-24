@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[void ${1:} (Input IN, SurfaceOutput o, inout fixed4 color)]]></content>
+	<tabTrigger>surface 自定义 finalcolor</tabTrigger>
+	<scope>source.shader</scope>
+</snippet>

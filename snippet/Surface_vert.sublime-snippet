@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[void ${1:}  (inout appdata_full v, out Input o) ]]></content>
+	<tabTrigger>surface 自定义vert</tabTrigger>
+	<scope>source.shader</scope>
+</snippet>
