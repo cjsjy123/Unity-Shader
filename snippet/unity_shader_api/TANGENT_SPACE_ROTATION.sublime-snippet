@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[TANGENT_SPACE_ROTATION  ]]></content>
+	<tabTrigger>TANGENT_SPACE_ROTATION</tabTrigger>
+	<scope>source.shader</scope>
+	<description>TANGENT_SPACE_ROTATION</description>
+</snippet>

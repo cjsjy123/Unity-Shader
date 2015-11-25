@@ -35,6 +35,7 @@ def init():
     if(U_Version == 5):
         temp5 =json.loads(defaultdefine.ulist)
         temp6 =json.loads(defaultdefine.uvlist)
+        DEFINITION_LIST += temp4
         DEFINITION_LIST += temp5
         DEFINITION_LIST += temp6
     else:
@@ -89,7 +90,7 @@ class ShaderListener(sublime_plugin.EventListener):
 class ShaderGotoDefinitionCommand(sublime_plugin.TextCommand):
     def run(self, edit):
         # select text
-        print("ShaderGotoDefinitionCommand")
+        # print("ShaderGotoDefinitionCommand")
         sel=self.view.substr(self.view.sel()[0])
         if len(sel)==0:
             # extend to the `word` under cursor
@@ -103,7 +104,7 @@ class ShaderGotoDefinitionCommand(sublime_plugin.TextCommand):
                 if key==sel:
                     matchList.append(item)
                     showList.append(item[1])
-        print("matchList")
+        # print("matchList")
         if len(matchList)==0:
             sublime.status_message("Can not find definition '%s'"%(sel))
         elif len(matchList)==1:
@@ -121,7 +122,7 @@ class ShaderGotoDefinitionCommand(sublime_plugin.TextCommand):
         self.gotoDefinition(item)
     
     def gotoDefinition(self,item):
-        print("ShaderGotoDefinitionCommand-1")
+        # print("ShaderGotoDefinitionCommand-1")
        # print("----- item %s" %(item))
         definitionType=item[4]
         filepath=item[2]
