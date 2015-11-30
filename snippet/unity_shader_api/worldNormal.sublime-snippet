@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[float3 worldNormal ${1:}
+	<content><![CDATA[worldNormal ${1:}
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>worldNormal</tabTrigger>
